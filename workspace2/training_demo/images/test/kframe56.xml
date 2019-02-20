@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder (2)</folder>
+	<filename>kframe56.jpg</filename>
+	<path>C:\Users\ASingh\PycharmProjects\createframes2\New folder (2)\kframe56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>638</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>198</ymin>
+			<xmax>598</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

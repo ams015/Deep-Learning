@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smallerset</folder>
+	<filename>kframe9.jpg</filename>
+	<path>C:\Users\ASingh\PycharmProjects\createframes2\smallerset\kframe9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>638</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>3</ymin>
+			<xmax>40</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>
